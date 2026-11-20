@@ -1,0 +1,8 @@
+**/node_modules
+**/target
+**/dist
+.tools
+.runtime
+.taste-skill
+frontend/test-results
+frontend/playwright-report
